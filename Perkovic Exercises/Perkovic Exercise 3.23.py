@@ -10,3 +10,4 @@ for i in range (0, 4, 1):
     print (i)
 for i in range (5, 22, 4):
     print (i)
+
