@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28be440-f767-47a2-8902-002da060c49e" name="Default" comment="Perkovic Exercises">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Perkovic Exercises/Exercise 2.12.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Perkovic Exercises/Exercise 2.13.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Perkovic Exercises/Exercise 2.14.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Perkovic Exercises/Exercise 2.18.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Perkovic Exercises/Exercise 2.19.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Perkovic Exercises/Perkovice Exercise 2.31.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final Assignments/Final Assignment NS.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.33.py" afterPath="$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.33.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,21 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Perkovic Exercise 3.40.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.40.py">
+      <file leaf-file-name="Final Assignment NS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final Assignments/Final Assignment NS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Perkovic Exercise 3.41.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.41.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -93,6 +76,7 @@
         <option value="$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.40.py" />
         <option value="$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.41.py" />
         <option value="$PROJECT_DIR$/Perkovic Exercises/3.44.py" />
+        <option value="$PROJECT_DIR$/Final Assignments/Final Assignment NS.py" />
       </list>
     </option>
   </component>
@@ -117,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,7 +111,7 @@
             <path>
               <item name="TICT-V1-PROG-15" type="b2602c69:ProjectViewProjectNode" />
               <item name="TICT-V1-PROG-15" type="462c0819:PsiDirectoryNode" />
-              <item name="Perkovic Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Final Assignments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TICT-V1-PROG-15" type="b2602c69:ProjectViewProjectNode" />
@@ -139,11 +122,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-0.9.1/resources/app/git/cmd/git.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -163,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.44">
+  <component name="RunManager" selected="Python.Final Assignment NS">
     <configuration name="3.44" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,19 +165,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Perkovic Exercise 3.33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Final Assignment NS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perkovic Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TICT-V1-PROG-15" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.33.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Assignments/Final Assignment NS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,19 +234,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.33" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.35" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.40" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.41" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3.44" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.35" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.40" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.41" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3.44" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Final Assignment NS" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3.44" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.41" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.40" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.35" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.33" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Final Assignment NS" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3.44" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.41" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.40" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Perkovic Exercise 3.35" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +256,7 @@
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2827027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29297298" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -315,16 +299,23 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.41.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.35.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -434,13 +425,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovice Exercise 2.31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovice Exercise 2.31.py" />
     <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -591,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice Exercises/Practice Exercises/Practice Exercise 4_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice Exercises/Practice Exercises/Practice Exercise 4_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -623,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,30 +608,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.40.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Perkovic Exercises/3.44.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Perkovic Exercises/3.44.py" />
     <entry file="file://$PROJECT_DIR$/Perkovic Exercises/Perkovic Exercise 3.41.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice Exercises/Practice Exercises/Practice Exercise 4_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Assignments/Final Assignment NS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
         </state>
       </provider>
