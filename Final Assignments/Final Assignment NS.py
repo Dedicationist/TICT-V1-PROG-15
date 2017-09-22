@@ -2,7 +2,6 @@ def standaardtarief(afstandKM):
     if afstandKM < 0:
         prijs = 0
     else:
-
      if afstandKM >= 50:
         prijs = 0.6 * afstandKM + 15
      if afstandKM <= 50:
