@@ -21,4 +21,3 @@ def nieuwe_kluis():
         Code = eval(input('Geef een code van vier cijfers: '))
         outfile = infile.write('Code = {}, kluisnummer = "{}'.format(Code, ToegewezenKluis))
         print('Uw kluisnummer is: {}'.format(ToegewezenKluis))
-
