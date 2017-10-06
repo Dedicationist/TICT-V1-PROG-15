@@ -23,7 +23,7 @@ def omroepen_reis(stations, beginstation, eindstation):
     afstand = IEindstation - IBeginstation
     prijs = afstand * 5
     tussenstations = []
-    for i in range(stations.index(beginstation), stations.index(eindstation)):
+    for i in range(IBeginstation, IEindstation - 1):
         tussenstations.append(stations[i])
     print('Jij stapt in de trein in: {}, het {}e station in het traject'.format(beginstation, IBeginstation))
     print('De tussenstations zijn: {}'.format(tussenstations))
